@@ -1,9 +1,3 @@
 import torch
-import nn
-
-for i in rea:
-    print('aaa')
-
-import numpy as np
+print(torch.__version__)
 print('aaa')
-print('nnn')
